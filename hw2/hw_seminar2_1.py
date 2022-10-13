@@ -6,3 +6,4 @@ n=0
 for i in str:
     n+=int(i)
 print (n)
+
